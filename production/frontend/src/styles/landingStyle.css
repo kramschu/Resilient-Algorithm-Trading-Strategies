@@ -1,0 +1,112 @@
+$border-thin: 3px solid #000;
+$border-med: 8px solid #000;
+* {
+  font-family: sans-serif;
+  color: rgba(0,0,0,0.75);
+}
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  padding: 0px 30px;
+  background: #f9f9f9;
+}
+h1 {
+  font-size: 150px;
+  color: black;
+  text-shadow: 0 0 1px white;
+  display: none;
+  position: relative;
+  margin-top: 7%;
+  margin-right: 12%;
+  margin-left: -1%;
+  top: -15%;
+}
+
+#h2-content {
+  font-size: 45px;
+  height: 100%;
+  display: block;
+  width: 18rem;
+  position: absolute;
+  margin-top: 0%;
+  color: black;
+  top: 11%;
+  letter-spacing: 3px;
+  margin-left: 1rem;
+  margin-right: 3%;
+  line-height: 140%;
+}
+span {
+  white-space: pre-line;
+}
+
+button {
+  border: 2px solid #EC6F6A;
+  color: #EC6F6A;
+  padding: 4px 16px;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: 400;
+  margin: 0 16px;
+  cursor: pointer;
+}
+.lp {
+  top: 13%;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 25px 25px -10px #ccc;
+  background: #fff;
+  border: 5px solid #000;
+  border-radius: 1rem;
+  overflow: hidden;
+  width: 95vw;
+  left: 3%;
+  height: 75vh;
+  max-width: 90rem;
+}
+.content {
+  height: 70%;
+  width: 100%;
+  top: 15%;
+  display: flex;
+  position: absolute;
+}
+/*NAV*/
+nav {
+  height: 72px;
+  display: grid;
+  grid-template-columns: 100px auto;
+}
+.nav__logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 72px;
+}
+.nav__logoShape {
+  height: 40px;
+  width: 40px;
+  background: #EC6F6A;
+  border-radius: 50%;
+}
+.nav__logoText {
+  font-weight: 600;
+  text-shadow: 1px 0px #000;
+  margin: 0 0 0 -15px;
+}
+.nav__item:nth-of-type(2) {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/*MAIN TEXT*/
+.main__text {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  position: relative;
+}

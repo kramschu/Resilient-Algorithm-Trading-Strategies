@@ -1,0 +1,35 @@
+.oauth2-mainpage {
+    position: absolute;
+    top: 5rem;
+    width: 100%;
+}
+
+.greeting {
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    font-size: 5em;
+    width: 70%;
+    margin: auto;
+}
+
+.oauth2-name {
+    color: #50b0a2;
+    margin-top: 1rem;
+}
+
+h2 {
+    width: 50%;
+    margin: auto;
+    margin-top: 1rem;
+}
+
+.oauth2-form {
+    position: unset;
+    left: unset;
+    margin: auto;
+    text-align: center;
+    margin-top: 1rem;
+}

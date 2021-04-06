@@ -1,0 +1,18 @@
+#root {
+  height: 100%;
+  margin: 0;
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+  display: contents;
+  left: 0%;
+  margin-right: 0%;
+  position: absolute;
+}
+
+.navbar {
+  top: 0%;
+  position: absolute;
+}

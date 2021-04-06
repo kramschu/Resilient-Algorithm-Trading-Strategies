@@ -1,0 +1,144 @@
+.lp {
+  top: 5rem;
+  position: absolute;
+  display: block;
+  margin: auto;
+  box-shadow: 0px 25px 25px -10px #CCC;
+  background: #fff;
+  border: 5px solid #000;
+  overflow: hidden;
+  width: 90%;
+  font-family: sans-serif;
+  left: 5%;
+  line-height: 90%;
+}
+
+ul#file-name {
+  overflow-y: scroll;
+  word-wrap: break-word;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  width: 90%;
+  left: 5%;
+  height: 80%;
+  top: 15%;
+  position: absolute;
+  font-weight: 400;
+}
+
+.results-text {
+  overflow-y: scroll;
+  word-wrap: break-word;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  width: 95%;
+  left: 3%;
+  height: 90%;
+  top: 7%;
+  position: absolute;
+  line-height: 130%;
+  font-weight: 400;
+}
+
+li.file-list {
+  margin-bottom: 4%;
+}
+
+form {
+  margin-top: 1.5%;
+  left: 25%;
+  position: absolute;
+}
+
+.run-algs-header {
+  background-color: #50B0A2;
+  color: white;
+  font-weight: 300;
+  padding: 1.25%;
+  width: 32%;
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
+  border-radius: 0px 0px 5px 0px;
+  display: inline-block;
+}
+
+.past-runs-header {
+  background-color: #50B0A2;
+  color: white;
+  font-weight: 300;
+  padding: 1.25%;
+  width: 32%;
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
+  border-radius: 0px 0px 5px 0px;
+  display: inline-block;
+}
+
+.alg-results-header {
+  background-color: #50B0A2;
+  color: white;
+  font-weight: 300;
+  padding: 0.75%;
+  width: 15%;
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
+  border-radius: 0px 0px 5px 0px;
+  display: inline-block;
+}
+
+select {
+  margin-bottom: 1.5%;
+  font-weight: 300;
+}
+
+input {
+  font-weight: 300;
+  margin-bottom: 1.5%;
+}
+
+label {
+  font-weight: 300;
+  color: rgb(92, 92, 92);
+  font-size: small;
+  display: inline-block;
+  margin: 0;
+}
+
+#submit-alg {
+  left: 0%;
+  margin-top: 2%;
+  position: absolute;
+}
+
+.run-algs-content {
+  background: #f3dd9c; 
+  border-bottom: 3px solid #000;
+  border-right: 3px solid #000;
+  width: 25%;
+  height: 50%;
+  position: absolute;
+}
+
+.past-run-content {
+  background: lavender;
+  border-right: 3px solid #000;
+  width: 25%;
+  position: absolute;
+  height: 50%;
+  top: 50%;
+}
+
+.algorithm-results-content {
+  background: rgb(219, 240, 226);
+  border-right: 3px solid #000;
+  width: 75%;
+  position: absolute;
+  height: 100%;
+  left: 25%;
+}
+
+#alg-name {
+  width: 80%;
+}

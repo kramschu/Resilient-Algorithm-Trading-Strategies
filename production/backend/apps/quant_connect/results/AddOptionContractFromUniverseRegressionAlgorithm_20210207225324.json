@@ -1,0 +1,2812 @@
+{
+    "RollingWindow": {
+        "M1_20140610": {
+            "TradeStatistics": {
+                "StartDateTime": "2014-06-05T13:31:00Z",
+                "EndDateTime": "2014-06-06T18:00:00Z",
+                "TotalNumberOfTrades": 1,
+                "NumberOfWinningTrades": 0,
+                "NumberOfLosingTrades": 1,
+                "TotalProfitLoss": "-230.00",
+                "TotalProfit": "0",
+                "TotalLoss": "-230.00",
+                "LargestProfit": "0",
+                "LargestLoss": "-230.00",
+                "AverageProfitLoss": "-230.00",
+                "AverageProfit": "0",
+                "AverageLoss": "-230.00",
+                "AverageTradeDuration": "1.04:29:00",
+                "AverageWinningTradeDuration": "00:00:00",
+                "AverageLosingTradeDuration": "1.04:29:00",
+                "MedianTradeDuration": "1.04:29:00",
+                "MedianWinningTradeDuration": "00:00:00",
+                "MedianLosingTradeDuration": "1.04:29:00",
+                "MaxConsecutiveWinningTrades": 0,
+                "MaxConsecutiveLosingTrades": 1,
+                "ProfitLossRatio": "0",
+                "WinLossRatio": "0",
+                "WinRate": "0",
+                "LossRate": "1",
+                "AverageMAE": "-230.00",
+                "AverageMFE": "0.00",
+                "LargestMAE": "-230.00",
+                "LargestMFE": "0",
+                "MaximumClosedTradeDrawdown": "-230.00",
+                "MaximumIntraTradeDrawdown": "-230.00",
+                "ProfitLossStandardDeviation": "0",
+                "ProfitLossDownsideDeviation": "0",
+                "ProfitFactor": "0",
+                "SharpeRatio": "0",
+                "SortinoRatio": "0",
+                "ProfitToMaxDrawdownRatio": "-1",
+                "MaximumEndTradeDrawdown": "-230.00",
+                "AverageEndTradeDrawdown": "-230.00",
+                "MaximumDrawdownDuration": "00:00:00",
+                "TotalFees": "2"
+            },
+            "PortfolioStatistics": {
+                "AverageWinRate": "0",
+                "AverageLossRate": "-0.0023",
+                "ProfitLossRatio": "0",
+                "WinRate": "0",
+                "LossRate": "1",
+                "Expectancy": "-1",
+                "CompoundingAnnualReturn": "-0.1560",
+                "Drawdown": "0.002",
+                "TotalNetProfit": "-0.0023",
+                "SharpeRatio": "-7.7386",
+                "ProbabilisticSharpeRatio": "0.0122",
+                "Alpha": "0.0271",
+                "Beta": "-0.1744",
+                "AnnualStandardDeviation": "0.0064",
+                "AnnualVariance": "0.0000",
+                "InformationRatio": "-11.5857",
+                "TrackingError": "0.0424",
+                "TreynorRatio": "0.2857"
+            },
+            "ClosedTrades": []
+        },
+        "M3_20140610": {
+            "TradeStatistics": {
+                "StartDateTime": "2014-06-05T13:31:00Z",
+                "EndDateTime": "2014-06-06T18:00:00Z",
+                "TotalNumberOfTrades": 1,
+                "NumberOfWinningTrades": 0,
+                "NumberOfLosingTrades": 1,
+                "TotalProfitLoss": "-230.00",
+                "TotalProfit": "0",
+                "TotalLoss": "-230.00",
+                "LargestProfit": "0",
+                "LargestLoss": "-230.00",
+                "AverageProfitLoss": "-230.00",
+                "AverageProfit": "0",
+                "AverageLoss": "-230.00",
+                "AverageTradeDuration": "1.04:29:00",
+                "AverageWinningTradeDuration": "00:00:00",
+                "AverageLosingTradeDuration": "1.04:29:00",
+                "MedianTradeDuration": "1.04:29:00",
+                "MedianWinningTradeDuration": "00:00:00",
+                "MedianLosingTradeDuration": "1.04:29:00",
+                "MaxConsecutiveWinningTrades": 0,
+                "MaxConsecutiveLosingTrades": 1,
+                "ProfitLossRatio": "0",
+                "WinLossRatio": "0",
+                "WinRate": "0",
+                "LossRate": "1",
+                "AverageMAE": "-230.00",
+                "AverageMFE": "0.00",
+                "LargestMAE": "-230.00",
+                "LargestMFE": "0",
+                "MaximumClosedTradeDrawdown": "-230.00",
+                "MaximumIntraTradeDrawdown": "-230.00",
+                "ProfitLossStandardDeviation": "0",
+                "ProfitLossDownsideDeviation": "0",
+                "ProfitFactor": "0",
+                "SharpeRatio": "0",
+                "SortinoRatio": "0",
+                "ProfitToMaxDrawdownRatio": "-1",
+                "MaximumEndTradeDrawdown": "-230.00",
+                "AverageEndTradeDrawdown": "-230.00",
+                "MaximumDrawdownDuration": "00:00:00",
+                "TotalFees": "2"
+            },
+            "PortfolioStatistics": {
+                "AverageWinRate": "0",
+                "AverageLossRate": "-0.0023",
+                "ProfitLossRatio": "0",
+                "WinRate": "0",
+                "LossRate": "1",
+                "Expectancy": "-1",
+                "CompoundingAnnualReturn": "-0.1560",
+                "Drawdown": "0.002",
+                "TotalNetProfit": "-0.0023",
+                "SharpeRatio": "-7.7386",
+                "ProbabilisticSharpeRatio": "0.0122",
+                "Alpha": "0.0271",
+                "Beta": "-0.1744",
+                "AnnualStandardDeviation": "0.0064",
+                "AnnualVariance": "0.0000",
+                "InformationRatio": "-11.5857",
+                "TrackingError": "0.0424",
+                "TreynorRatio": "0.2857"
+            },
+            "ClosedTrades": []
+        },
+        "M6_20140610": {
+            "TradeStatistics": {
+                "StartDateTime": "2014-06-05T13:31:00Z",
+                "EndDateTime": "2014-06-06T18:00:00Z",
+                "TotalNumberOfTrades": 1,
+                "NumberOfWinningTrades": 0,
+                "NumberOfLosingTrades": 1,
+                "TotalProfitLoss": "-230.00",
+                "TotalProfit": "0",
+                "TotalLoss": "-230.00",
+                "LargestProfit": "0",
+                "LargestLoss": "-230.00",
+                "AverageProfitLoss": "-230.00",
+                "AverageProfit": "0",
+                "AverageLoss": "-230.00",
+                "AverageTradeDuration": "1.04:29:00",
+                "AverageWinningTradeDuration": "00:00:00",
+                "AverageLosingTradeDuration": "1.04:29:00",
+                "MedianTradeDuration": "1.04:29:00",
+                "MedianWinningTradeDuration": "00:00:00",
+                "MedianLosingTradeDuration": "1.04:29:00",
+                "MaxConsecutiveWinningTrades": 0,
+                "MaxConsecutiveLosingTrades": 1,
+                "ProfitLossRatio": "0",
+                "WinLossRatio": "0",
+                "WinRate": "0",
+                "LossRate": "1",
+                "AverageMAE": "-230.00",
+                "AverageMFE": "0.00",
+                "LargestMAE": "-230.00",
+                "LargestMFE": "0",
+                "MaximumClosedTradeDrawdown": "-230.00",
+                "MaximumIntraTradeDrawdown": "-230.00",
+                "ProfitLossStandardDeviation": "0",
+                "ProfitLossDownsideDeviation": "0",
+                "ProfitFactor": "0",
+                "SharpeRatio": "0",
+                "SortinoRatio": "0",
+                "ProfitToMaxDrawdownRatio": "-1",
+                "MaximumEndTradeDrawdown": "-230.00",
+                "AverageEndTradeDrawdown": "-230.00",
+                "MaximumDrawdownDuration": "00:00:00",
+                "TotalFees": "2"
+            },
+            "PortfolioStatistics": {
+                "AverageWinRate": "0",
+                "AverageLossRate": "-0.0023",
+                "ProfitLossRatio": "0",
+                "WinRate": "0",
+                "LossRate": "1",
+                "Expectancy": "-1",
+                "CompoundingAnnualReturn": "-0.1560",
+                "Drawdown": "0.002",
+                "TotalNetProfit": "-0.0023",
+                "SharpeRatio": "-7.7386",
+                "ProbabilisticSharpeRatio": "0.0122",
+                "Alpha": "0.0271",
+                "Beta": "-0.1744",
+                "AnnualStandardDeviation": "0.0064",
+                "AnnualVariance": "0.0000",
+                "InformationRatio": "-11.5857",
+                "TrackingError": "0.0424",
+                "TreynorRatio": "0.2857"
+            },
+            "ClosedTrades": []
+        },
+        "M12_20140610": {
+            "TradeStatistics": {
+                "StartDateTime": "2014-06-05T13:31:00Z",
+                "EndDateTime": "2014-06-06T18:00:00Z",
+                "TotalNumberOfTrades": 1,
+                "NumberOfWinningTrades": 0,
+                "NumberOfLosingTrades": 1,
+                "TotalProfitLoss": "-230.00",
+                "TotalProfit": "0",
+                "TotalLoss": "-230.00",
+                "LargestProfit": "0",
+                "LargestLoss": "-230.00",
+                "AverageProfitLoss": "-230.00",
+                "AverageProfit": "0",
+                "AverageLoss": "-230.00",
+                "AverageTradeDuration": "1.04:29:00",
+                "AverageWinningTradeDuration": "00:00:00",
+                "AverageLosingTradeDuration": "1.04:29:00",
+                "MedianTradeDuration": "1.04:29:00",
+                "MedianWinningTradeDuration": "00:00:00",
+                "MedianLosingTradeDuration": "1.04:29:00",
+                "MaxConsecutiveWinningTrades": 0,
+                "MaxConsecutiveLosingTrades": 1,
+                "ProfitLossRatio": "0",
+                "WinLossRatio": "0",
+                "WinRate": "0",
+                "LossRate": "1",
+                "AverageMAE": "-230.00",
+                "AverageMFE": "0.00",
+                "LargestMAE": "-230.00",
+                "LargestMFE": "0",
+                "MaximumClosedTradeDrawdown": "-230.00",
+                "MaximumIntraTradeDrawdown": "-230.00",
+                "ProfitLossStandardDeviation": "0",
+                "ProfitLossDownsideDeviation": "0",
+                "ProfitFactor": "0",
+                "SharpeRatio": "0",
+                "SortinoRatio": "0",
+                "ProfitToMaxDrawdownRatio": "-1",
+                "MaximumEndTradeDrawdown": "-230.00",
+                "AverageEndTradeDrawdown": "-230.00",
+                "MaximumDrawdownDuration": "00:00:00",
+                "TotalFees": "2"
+            },
+            "PortfolioStatistics": {
+                "AverageWinRate": "0",
+                "AverageLossRate": "-0.0023",
+                "ProfitLossRatio": "0",
+                "WinRate": "0",
+                "LossRate": "1",
+                "Expectancy": "-1",
+                "CompoundingAnnualReturn": "-0.1560",
+                "Drawdown": "0.002",
+                "TotalNetProfit": "-0.0023",
+                "SharpeRatio": "-7.7386",
+                "ProbabilisticSharpeRatio": "0.0122",
+                "Alpha": "0.0271",
+                "Beta": "-0.1744",
+                "AnnualStandardDeviation": "0.0064",
+                "AnnualVariance": "0.0000",
+                "InformationRatio": "-11.5857",
+                "TrackingError": "0.0424",
+                "TreynorRatio": "0.2857"
+            },
+            "ClosedTrades": []
+        }
+    },
+    "TotalPerformance": {
+        "TradeStatistics": {
+            "StartDateTime": "2014-06-05T13:31:00Z",
+            "EndDateTime": "2014-06-06T18:00:00Z",
+            "TotalNumberOfTrades": 1,
+            "NumberOfWinningTrades": 0,
+            "NumberOfLosingTrades": 1,
+            "TotalProfitLoss": "-230.00",
+            "TotalProfit": "0",
+            "TotalLoss": "-230.00",
+            "LargestProfit": "0",
+            "LargestLoss": "-230.00",
+            "AverageProfitLoss": "-230.00",
+            "AverageProfit": "0",
+            "AverageLoss": "-230.00",
+            "AverageTradeDuration": "1.04:29:00",
+            "AverageWinningTradeDuration": "00:00:00",
+            "AverageLosingTradeDuration": "1.04:29:00",
+            "MedianTradeDuration": "1.04:29:00",
+            "MedianWinningTradeDuration": "00:00:00",
+            "MedianLosingTradeDuration": "1.04:29:00",
+            "MaxConsecutiveWinningTrades": 0,
+            "MaxConsecutiveLosingTrades": 1,
+            "ProfitLossRatio": "0",
+            "WinLossRatio": "0",
+            "WinRate": "0",
+            "LossRate": "1",
+            "AverageMAE": "-230.00",
+            "AverageMFE": "0.00",
+            "LargestMAE": "-230.00",
+            "LargestMFE": "0",
+            "MaximumClosedTradeDrawdown": "-230.00",
+            "MaximumIntraTradeDrawdown": "-230.00",
+            "ProfitLossStandardDeviation": "0",
+            "ProfitLossDownsideDeviation": "0",
+            "ProfitFactor": "0",
+            "SharpeRatio": "0",
+            "SortinoRatio": "0",
+            "ProfitToMaxDrawdownRatio": "-1",
+            "MaximumEndTradeDrawdown": "-230.00",
+            "AverageEndTradeDrawdown": "-230.00",
+            "MaximumDrawdownDuration": "00:00:00",
+            "TotalFees": "2"
+        },
+        "PortfolioStatistics": {
+            "AverageWinRate": "0",
+            "AverageLossRate": "-0.0023",
+            "ProfitLossRatio": "0",
+            "WinRate": "0",
+            "LossRate": "1",
+            "Expectancy": "-1",
+            "CompoundingAnnualReturn": "-0.1560",
+            "Drawdown": "0.002",
+            "TotalNetProfit": "-0.0023",
+            "SharpeRatio": "-7.7386",
+            "ProbabilisticSharpeRatio": "0.0122",
+            "Alpha": "0.0271",
+            "Beta": "-0.1744",
+            "AnnualStandardDeviation": "0.0064",
+            "AnnualVariance": "0.0000",
+            "InformationRatio": "-11.5857",
+            "TrackingError": "0.0424",
+            "TreynorRatio": "0.2857"
+        },
+        "ClosedTrades": [
+            {
+                "Symbol": {
+                    "Value": "TWX   140621C00042500",
+                    "ID": "AOL VRKS95ENLBYE|AOL R735QTJ8XC9X",
+                    "Permtick": "TWX   140621C00042500",
+                    "Underlying": {
+                        "Value": "TWX",
+                        "ID": "AOL R735QTJ8XC9X",
+                        "Permtick": "TWX"
+                    }
+                },
+                "EntryTime": "2014-06-05T13:31:00Z",
+                "EntryPrice": 29.6,
+                "Direction": 0,
+                "Quantity": 1.0,
+                "ExitTime": "2014-06-06T18:00:00Z",
+                "ExitPrice": 27.3,
+                "ProfitLoss": -230.0,
+                "TotalFees": 2.0,
+                "MAE": -230.0,
+                "MFE": 0.0,
+                "Duration": "1.04:29:00",
+                "EndTradeDrawdown": -230.0
+            }
+        ]
+    },
+    "AlphaRuntimeStatistics": {
+        "MeanPopulationScore": {
+            "UpdatedTimeUtc": "0001-01-01T00:00:00",
+            "Direction": 0.0,
+            "Magnitude": 0.0,
+            "IsFinalScore": false
+        },
+        "RollingAveragedPopulationScore": {
+            "UpdatedTimeUtc": "0001-01-01T00:00:00",
+            "Direction": 0.0,
+            "Magnitude": 0.0,
+            "IsFinalScore": false
+        },
+        "LongShortRatio": 1.0,
+        "PortfolioTurnover": 0.014,
+        "ReturnOverMaxDrawdown": -67.224,
+        "SortinoRatio": "-19.883"
+    },
+    "Charts": {
+        "Alpha Assets": {
+            "Name": "Alpha Assets",
+            "ChartType": 0,
+            "Series": {}
+        },
+        "Alpha": {
+            "Name": "Alpha",
+            "ChartType": 0,
+            "Series": {
+                "Direction Score": {
+                    "Name": "Direction Score",
+                    "Unit": "%",
+                    "Index": 0,
+                    "Values": [
+                        {
+                            "x": 1401975060,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401975540,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401976020,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401976500,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401976980,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401977460,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401977940,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401978420,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401978900,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401979380,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401979860,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401980340,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401980820,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401981300,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401981780,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401982260,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401982740,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401983220,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401983700,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401984180,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401984660,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401985140,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401985620,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401986100,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401986580,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401987060,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401987540,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401988020,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401988500,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401988980,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401989460,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401989940,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401990420,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401990900,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401991380,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401991860,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401992340,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401992820,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401993300,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401993780,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401994260,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401994740,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401995220,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401995700,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401996180,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401996660,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401997140,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401997620,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401998100,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402027200,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402061460,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402061940,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402062420,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402062900,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402063380,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402063860,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402064340,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402064820,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402065300,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402065780,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402066260,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402066740,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402067220,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402067700,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402068180,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402068660,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402069140,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402069620,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402070100,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402070580,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402071060,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402071540,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402072020,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402072500,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402072980,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402073460,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402073940,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402074420,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402074900,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402075380,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402075860,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402076340,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402076820,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402077300,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402077780,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402078260,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402078740,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402079220,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402079700,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402080180,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402080660,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402081140,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402081620,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402082100,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402082580,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402083060,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402083540,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402084020,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402084500,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402113600,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402286400,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402320660,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402321140,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402321620,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402322100,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402322580,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402323060,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402323540,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402324020,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402324500,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402324980,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402325460,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402325940,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402326420,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402326900,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402327380,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402327860,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402328340,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402328820,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402329300,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402329780,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402330260,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402330740,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402331220,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402331700,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402332180,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402332660,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402333140,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402333620,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402334100,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402334580,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402335060,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402335540,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402336020,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402336500,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402336980,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402337460,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402337940,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402338420,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402338900,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402339380,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402339860,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402340340,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402340820,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402341300,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402341780,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402342260,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402342740,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402343220,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402343700,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402372800,
+                            "y": 0.0
+                        }
+                    ],
+                    "SeriesType": 0,
+                    "Color": "",
+                    "ScatterMarkerSymbol": "none"
+                },
+                "Magnitude Score": {
+                    "Name": "Magnitude Score",
+                    "Unit": "%",
+                    "Index": 0,
+                    "Values": [
+                        {
+                            "x": 1401975060,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401975540,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401976020,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401976500,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401976980,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401977460,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401977940,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401978420,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401978900,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401979380,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401979860,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401980340,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401980820,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401981300,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401981780,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401982260,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401982740,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401983220,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401983700,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401984180,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401984660,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401985140,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401985620,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401986100,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401986580,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401987060,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401987540,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401988020,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401988500,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401988980,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401989460,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401989940,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401990420,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401990900,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401991380,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401991860,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401992340,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401992820,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401993300,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401993780,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401994260,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401994740,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401995220,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401995700,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401996180,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401996660,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401997140,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401997620,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1401998100,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402027200,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402061460,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402061940,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402062420,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402062900,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402063380,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402063860,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402064340,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402064820,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402065300,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402065780,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402066260,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402066740,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402067220,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402067700,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402068180,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402068660,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402069140,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402069620,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402070100,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402070580,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402071060,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402071540,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402072020,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402072500,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402072980,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402073460,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402073940,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402074420,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402074900,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402075380,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402075860,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402076340,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402076820,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402077300,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402077780,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402078260,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402078740,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402079220,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402079700,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402080180,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402080660,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402081140,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402081620,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402082100,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402082580,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402083060,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402083540,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402084020,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402084500,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402113600,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402286400,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402320660,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402321140,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402321620,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402322100,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402322580,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402323060,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402323540,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402324020,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402324500,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402324980,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402325460,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402325940,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402326420,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402326900,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402327380,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402327860,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402328340,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402328820,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402329300,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402329780,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402330260,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402330740,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402331220,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402331700,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402332180,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402332660,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402333140,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402333620,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402334100,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402334580,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402335060,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402335540,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402336020,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402336500,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402336980,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402337460,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402337940,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402338420,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402338900,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402339380,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402339860,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402340340,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402340820,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402341300,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402341780,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402342260,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402342740,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402343220,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402343700,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402372800,
+                            "y": 0.0
+                        }
+                    ],
+                    "SeriesType": 0,
+                    "Color": "",
+                    "ScatterMarkerSymbol": "none"
+                }
+            }
+        },
+        "Insight Count": {
+            "Name": "Insight Count",
+            "ChartType": 0,
+            "Series": {
+                "Count": {
+                    "Name": "Count",
+                    "Unit": "#",
+                    "Index": 0,
+                    "Values": [
+                        {
+                            "x": 1402012800,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402099200,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402272000,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402358400,
+                            "y": 0.0
+                        }
+                    ],
+                    "SeriesType": 3,
+                    "Color": "",
+                    "ScatterMarkerSymbol": "none"
+                }
+            }
+        },
+        "Strategy Equity": {
+            "Name": "Strategy Equity",
+            "ChartType": 0,
+            "Series": {
+                "Equity": {
+                    "Name": "Equity",
+                    "Unit": "$",
+                    "Index": 0,
+                    "Values": [
+                        {
+                            "x": 1401940800,
+                            "y": 100000.0
+                        },
+                        {
+                            "x": 1401975060,
+                            "y": 99899.0
+                        },
+                        {
+                            "x": 1401975360,
+                            "y": 99911.5
+                        },
+                        {
+                            "x": 1401975660,
+                            "y": 99911.5
+                        },
+                        {
+                            "x": 1401975960,
+                            "y": 99849.0
+                        },
+                        {
+                            "x": 1401976260,
+                            "y": 99849.0
+                        },
+                        {
+                            "x": 1401976560,
+                            "y": 99849.0
+                        },
+                        {
+                            "x": 1401976860,
+                            "y": 99849.0
+                        },
+                        {
+                            "x": 1401977160,
+                            "y": 99849.0
+                        },
+                        {
+                            "x": 1401977460,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401977760,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401978060,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401978360,
+                            "y": 99849.0
+                        },
+                        {
+                            "x": 1401978660,
+                            "y": 99849.0
+                        },
+                        {
+                            "x": 1401978960,
+                            "y": 99839.0
+                        },
+                        {
+                            "x": 1401979260,
+                            "y": 99836.5
+                        },
+                        {
+                            "x": 1401979560,
+                            "y": 99836.5
+                        },
+                        {
+                            "x": 1401979860,
+                            "y": 99836.5
+                        },
+                        {
+                            "x": 1401980160,
+                            "y": 99836.5
+                        },
+                        {
+                            "x": 1401980460,
+                            "y": 99836.5
+                        },
+                        {
+                            "x": 1401980760,
+                            "y": 99836.5
+                        },
+                        {
+                            "x": 1401981060,
+                            "y": 99836.5
+                        },
+                        {
+                            "x": 1401981360,
+                            "y": 99836.5
+                        },
+                        {
+                            "x": 1401981660,
+                            "y": 99836.5
+                        },
+                        {
+                            "x": 1401981960,
+                            "y": 99836.5
+                        },
+                        {
+                            "x": 1401982260,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401982560,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401982860,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401983160,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401983460,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401983760,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401984060,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401984360,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401984660,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401984960,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401985260,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401985560,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401985860,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401986160,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401986460,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401986760,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401987060,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401987360,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401987660,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401987960,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401988260,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401988560,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401988860,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401989160,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401989460,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401989760,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401990060,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401990360,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401990660,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401990960,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401991260,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401991560,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401991860,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401992160,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401992460,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401992760,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401993060,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401993360,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401993660,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401993960,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401994260,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401994560,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401994860,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401995160,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401995460,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401995760,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401996060,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401996360,
+                            "y": 99854.0
+                        },
+                        {
+                            "x": 1401996660,
+                            "y": 99854.0
+                        },
+                        {
+                            "x": 1401996960,
+                            "y": 99851.5
+                        },
+                        {
+                            "x": 1401997260,
+                            "y": 99849.0
+                        },
+                        {
+                            "x": 1401997560,
+                            "y": 99849.0
+                        },
+                        {
+                            "x": 1401997860,
+                            "y": 99849.0
+                        },
+                        {
+                            "x": 1401998160,
+                            "y": 99849.0
+                        },
+                        {
+                            "x": 1401998400,
+                            "y": 99849.0
+                        },
+                        {
+                            "x": 1402027200,
+                            "y": 99849.0
+                        },
+                        {
+                            "x": 1402061460,
+                            "y": 99916.5
+                        },
+                        {
+                            "x": 1402061760,
+                            "y": 99916.5
+                        },
+                        {
+                            "x": 1402062060,
+                            "y": 99916.5
+                        },
+                        {
+                            "x": 1402062360,
+                            "y": 99916.5
+                        },
+                        {
+                            "x": 1402062660,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402062960,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402063260,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402063560,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402063860,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402064160,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402064460,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402064760,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402065060,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402065360,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402065660,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402065960,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402066260,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402066560,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402066860,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402067160,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402067460,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402067760,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402068060,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402068360,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402068660,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402068960,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402069260,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402069560,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402069860,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402070160,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402070460,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402070760,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402071060,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402071360,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402071660,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402071960,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402072260,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402072560,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402072860,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402073160,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402073460,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402073760,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402074060,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402074360,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402074660,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402074960,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402075260,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402075560,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402075860,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402076160,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402076460,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402076760,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402077060,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402077360,
+                            "y": 99926.5
+                        },
+                        {
+                            "x": 1402077660,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402077960,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402078260,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402078560,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402078860,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402079160,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402079460,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402079760,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402080060,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402080360,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402080660,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402080960,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402081260,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402081560,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402081860,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402082160,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402082460,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402082760,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402083060,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402083360,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402083660,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402083960,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402084260,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402084560,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402084800,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402113600,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402286400,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402320660,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402320960,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402321260,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402321560,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402321860,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402322160,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402322460,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402322760,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402323060,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402323360,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402323660,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402323960,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402324260,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402324560,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402324860,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402325160,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402325460,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402325760,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402326060,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402326360,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402326660,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402326960,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402327260,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402327560,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402327860,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402328160,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402328460,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402328760,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402329060,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402329360,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402329660,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402329960,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402330260,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402330560,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402330860,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402331160,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402331460,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402331760,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402332060,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402332360,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402332660,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402332960,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402333260,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402333560,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402333860,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402334160,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402334460,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402334760,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402335060,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402335360,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402335660,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402335960,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402336260,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402336560,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402336860,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402337160,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402337460,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402337760,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402338060,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402338360,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402338660,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402338960,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402339260,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402339560,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402339860,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402340160,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402340460,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402340760,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402341060,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402341360,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402341660,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402341960,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402342260,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402342560,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402342860,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402343160,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402343460,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402343760,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402344000,
+                            "y": 99768.0
+                        },
+                        {
+                            "x": 1402372800,
+                            "y": 99768.0
+                        }
+                    ],
+                    "SeriesType": 2,
+                    "Color": "",
+                    "ScatterMarkerSymbol": "none"
+                },
+                "Daily Performance": {
+                    "Name": "Daily Performance",
+                    "Unit": "%",
+                    "Index": 1,
+                    "Values": [
+                        {
+                            "x": 1401998400,
+                            "y": -0.151
+                        },
+                        {
+                            "x": 1402084800,
+                            "y": -0.0811225
+                        },
+                        {
+                            "x": 1402113600,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402344000,
+                            "y": 0.0
+                        },
+                        {
+                            "x": 1402372800,
+                            "y": 0.0
+                        }
+                    ],
+                    "SeriesType": 3,
+                    "Color": "",
+                    "ScatterMarkerSymbol": "none"
+                }
+            }
+        },
+        "Benchmark": {
+            "Name": "Benchmark",
+            "ChartType": 0,
+            "Series": {
+                "Benchmark": {
+                    "Name": "Benchmark",
+                    "Unit": "$",
+                    "Index": 0,
+                    "Values": [
+                        {
+                            "x": 1401998400,
+                            "y": 179.4691
+                        },
+                        {
+                            "x": 1402084800,
+                            "y": 180.3275
+                        },
+                        {
+                            "x": 1402113600,
+                            "y": 180.3275
+                        },
+                        {
+                            "x": 1402344000,
+                            "y": 180.5121
+                        },
+                        {
+                            "x": 1402372800,
+                            "y": 180.5121
+                        }
+                    ],
+                    "SeriesType": 0,
+                    "Color": "",
+                    "ScatterMarkerSymbol": "none"
+                }
+            }
+        }
+    },
+    "Orders": {
+        "1": {
+            "Type": 0,
+            "Id": 1,
+            "ContingentId": 0,
+            "BrokerId": [
+                "1"
+            ],
+            "Symbol": {
+                "Value": "TWX   140621C00042500",
+                "ID": "AOL VRKS95ENLBYE|AOL R735QTJ8XC9X",
+                "Permtick": "TWX   140621C00042500",
+                "Underlying": {
+                    "Value": "TWX",
+                    "ID": "AOL R735QTJ8XC9X",
+                    "Permtick": "TWX"
+                }
+            },
+            "Price": 29.6,
+            "PriceCurrency": "USD",
+            "Time": "2014-06-05T13:31:00Z",
+            "CreatedTime": "2014-06-05T13:31:00Z",
+            "LastFillTime": "2014-06-05T13:31:00Z",
+            "Quantity": 1.0,
+            "Status": 3,
+            "Properties": {
+                "TimeInForce": {}
+            },
+            "SecurityType": 2,
+            "Direction": 0,
+            "Value": 29.6,
+            "OrderSubmissionData": {
+                "BidPrice": 27.6,
+                "AskPrice": 29.6,
+                "LastPrice": 28.6
+            },
+            "IsMarketable": true
+        },
+        "2": {
+            "Type": 0,
+            "Id": 2,
+            "ContingentId": 0,
+            "BrokerId": [
+                "2"
+            ],
+            "Symbol": {
+                "Value": "TWX   140621C00042500",
+                "ID": "AOL VRKS95ENLBYE|AOL R735QTJ8XC9X",
+                "Permtick": "TWX   140621C00042500",
+                "Underlying": {
+                    "Value": "TWX",
+                    "ID": "AOL R735QTJ8XC9X",
+                    "Permtick": "TWX"
+                }
+            },
+            "Price": 27.3,
+            "PriceCurrency": "USD",
+            "Time": "2014-06-06T18:00:00Z",
+            "CreatedTime": "2014-06-06T18:00:00Z",
+            "LastFillTime": "2014-06-06T18:00:00Z",
+            "Quantity": -1.0,
+            "Status": 3,
+            "Tag": "Liquidated",
+            "Properties": {
+                "TimeInForce": {}
+            },
+            "SecurityType": 2,
+            "Direction": 1,
+            "Value": -27.3,
+            "OrderSubmissionData": {
+                "BidPrice": 27.3,
+                "AskPrice": 30.45,
+                "LastPrice": 28.875
+            },
+            "IsMarketable": true
+        }
+    },
+    "ProfitLoss": {
+        "2014-06-06T18:00:00Z": -232.0
+    },
+    "Statistics": {
+        "Total Trades": "2",
+        "Average Win": "0%",
+        "Average Loss": "-0.23%",
+        "Compounding Annual Return": "-15.596%",
+        "Drawdown": "0.200%",
+        "Expectancy": "-1",
+        "Net Profit": "-0.232%",
+        "Sharpe Ratio": "-7.739",
+        "Probabilistic Sharpe Ratio": "1.216%",
+        "Loss Rate": "100%",
+        "Win Rate": "0%",
+        "Profit-Loss Ratio": "0",
+        "Alpha": "0.027",
+        "Beta": "-0.174",
+        "Annual Standard Deviation": "0.006",
+        "Annual Variance": "0",
+        "Information Ratio": "-11.586",
+        "Tracking Error": "0.042",
+        "Treynor Ratio": "0.286",
+        "Total Fees": "$2.00"
+    },
+    "RuntimeStatistics": {
+        "Probabilistic Sharpe Ratio": "1.216%",
+        "Unrealized": "$0.00",
+        "Fees": "-$2.00",
+        "Net Profit": "$-230.00",
+        "Return": "-0.23 %",
+        "Equity": "$99,768.00",
+        "Holdings": "$0.00",
+        "Volume": "$5,690.00"
+    }
+}

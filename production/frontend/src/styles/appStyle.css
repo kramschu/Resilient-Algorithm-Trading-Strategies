@@ -1,0 +1,77 @@
+body {
+  background-image: url(image_copy.png);
+  background-size: cover;                      /* <------ */
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#root {
+  height: 100%;
+  margin: 0;
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+  display: contents;
+  left: 0%;
+  margin-right: 0%;
+  position: absolute;
+}
+
+.navbar {
+  top: 0%;
+  position: absolute;
+  width: 100%;
+  left: 0%;
+  padding-left: 2rem;
+  height: 11%;
+  font-size: 20px;
+}
+
+.navbar-brand {
+  color: rgba(0, 0, 0, 0.9);
+  font-size: 30px;
+  margin-right: 1.3rem !important;
+}
+
+.nav-item {
+  color: rgba(0, 0, 0, 0.9);
+  font-size: 20px;
+  margin-right: 1rem !important;
+}
+
+.navbar-footer {
+  top: 90%;
+  position: absolute;
+  width: 100%;
+  left: 0%;
+  background-color: white;
+  padding-left: 2rem;
+  height: 13%;
+  font-size: 20px;
+}
+
+#loginId {
+  position: absolute;
+  top: 15% !important;
+  height: 64%;
+  margin-left: 20%;
+  margin-top: 2%;
+  overflow: scroll;
+}
+
+#signUpId {
+  position: absolute;
+  top: 15% !important;
+  height: 73%;
+  margin-left: 20%;
+  margin-top: 0.5%;
+  overflow: scroll;
+}
+
+#profile-table {
+  background-color: white;
+  width: 60%;
+  margin-top: 6rem;
+}

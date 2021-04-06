@@ -1,0 +1,6 @@
+
+  {% load i18n %}
+  {% trans '1' as version %}
+  {% block content %}
+  {% endblock %}
+  

@@ -1,0 +1,230 @@
+$border-thin: 3px solid #000;
+$border-med: 8px solid #000;
+* {
+  font-family: sans-serif;
+  color: rgba(0,0,0,0.75);
+}
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  padding: 0px 30px;
+  background: #f9f9f9;
+}
+h1 {
+  font-size: 200px;
+  margin: 0 16px;
+  color: #EC6F6A;
+  position: absolute;
+  left: 10%;
+  top: 25%;
+}
+h2 {
+  font-size: 50px;
+  height: 100%;
+  position: absolute;
+  display: block;
+  width: 25%;
+  right: 25%;
+  line-height: 140%;
+  top: 25%;
+}
+span {
+  white-space: pre-line;
+}
+
+button {
+  border: 2px solid #EC6F6A;
+  color: #EC6F6A;
+  padding: 4px 16px;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: 400;
+  margin: 0 16px;
+  cursor: pointer;
+}
+.lp {
+  top: 5rem;
+  position: absolute;
+  margin: auto;
+  box-shadow: 0px 25px 25px -10px #CCC;
+  background: #fff;
+  border: 5px solid #000;
+  overflow: hidden;
+  width: 90%;
+  left: 5%;
+  height: 87%;
+}
+.content {
+  display: block;
+  position: absolute;
+  height: 70%;
+  width: 100%;
+  top: 15%;
+}
+/*NAV*/
+nav {
+  border-bottom: $border-thin;
+  height: 72px;
+  display: grid;
+  grid-template-columns: 100px auto;
+}
+.nav__item:nth-of-type(1) {
+  border-right: $border-thin;
+}
+.nav__logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 72px;
+}
+.nav__logoShape {
+  height: 40px;
+  width: 40px;
+  background: #EC6F6A;
+  border-radius: 50%;
+}
+.nav__logoText {
+  font-weight: 600;
+  text-shadow: 1px 0px #000;
+  margin: 0 0 0 -15px;
+}
+.nav__item:nth-of-type(2) {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/*MAIN TEXT*/
+.main__text {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+}
+/*SHAPE*/
+section.shape__holder {
+    width: 17%;
+    display: block;
+    height: 100%;
+    position: absolute;
+    right: 0%;
+}
+
+.shape__circle {
+  border-bottom: $border-thin;
+  background: #C19E90;
+  height: 70%;
+}
+.circle {
+  transform: rotate(135deg);
+  border: $border-thin;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  top: 12%;
+  position: absolute;
+  left: 9%;
+}
+
+.circle-half {
+  height: 100px;
+  width: 200px;
+  background: #EC6F6A;
+  border-top-left-radius: 90px;
+  border-top-right-radius: 90px;
+
+}
+.circle-half:nth-of-type(2) {
+  transform: rotate(180deg);
+  background: #F6C274; 
+  border-bottom: $border-thin;   
+}
+.squiggle__cont {
+  background: #50B0A2;
+  width: 100%;
+  overflow: hidden;
+  height: 30%;
+}
+.shape__squiggle {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 25%;
+}
+.squiggle {
+  position: absolute;
+  background: radial-gradient(ellipse, transparent, transparent 8px, black 8px, black 11px, transparent 11px);
+  background-size: 35px 40px;
+  width: 100%;
+  height: 20px;
+
+}
+.squiggle2 {
+  top: 14px;
+  left: 18px;
+  background-position: 0px -20px;
+}
+
+.content__top {
+  height: 15%;
+  display: grid;
+  position: absolute;
+  top: 0%;
+  grid-template-columns: 1000% 1000% 4000% 7000% 3500%;
+}
+.content__top__item {
+  border-right: 3px solid #000;
+}
+.content__top__item:nth-of-type(1) {
+  background: #F6C274;
+}
+.content__top__item:nth-of-type(2) {
+  background: #EB5939;
+}
+.content__top__item:nth-of-type(3) {
+  background: #EC6F6A;
+}
+.content__top__item:nth-of-type(4) {
+  background: #C19E8F;
+  border: none;
+}
+.content__top__item:nth-of-type(5) {
+  background: #000;
+  border: none;
+}
+
+.content__bottom {
+  height: 15%;
+  display: grid;
+  position: absolute;
+  bottom: 0%;
+  grid-template-columns: 1000% 1000% 4000% 7000% 3500%;
+}
+.content__btm__item {
+  border-right: 3px solid #000;
+}
+.content__btm__item:nth-of-type(1) {
+  background: #F6C274;
+}
+.content__btm__item:nth-of-type(2) {
+  background: #EB5939;
+}
+.content__btm__item:nth-of-type(3) {
+  background: #EC6F6A;
+}
+.content__btm__item:nth-of-type(4) {
+  background: #C19E8F;
+  border: none;
+}
+.content__btm__item:nth-of-type(5) {
+  background: #000;
+  border: none;
+}

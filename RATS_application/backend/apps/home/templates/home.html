@@ -1,0 +1,18 @@
+<!-- prettier-ignore -->
+{% extends './version' %}
+
+<!-- prettier-ignore -->
+{% block content %}
+
+<!-- prettier-ignore -->
+{% load static %}
+<!DOCTYPE html>
+<html>
+  <head><b>RATS Application</b>
+    {% include './base.html' %}
+  </head>
+  <body>
+    {% include 'home_content.html' %}
+  </body>
+</html>
+{% endblock %}

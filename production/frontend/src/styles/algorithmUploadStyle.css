@@ -1,0 +1,30 @@
+.algorithm-upload-content {
+    background: rgb(140, 189, 253);
+    border: 3px solid #f3eeee;
+    display: flex;
+    height: 8rem;
+    border-radius: 20px;
+  }
+
+  .algorithm-upload-form {
+    text-align: center;
+    align-self: center;
+    margin-left: 2rem;
+    top: 1rem;
+    position: relative;
+  }
+
+  .algorithm-upload-button {
+      margin-top: 2px;
+      margin-left: -1rem;
+      border: 2px solid #000;
+      color: #50B0A2;
+      background-color: aliceblue;
+  }
+
+  .algorithm-upload-header {
+    display: inline-block;
+    margin-top: 1rem;
+    position: absolute;
+    margin-left: 7.5rem;
+  }
